@@ -1,6 +1,6 @@
 # anonymous--secrets
 
-Node.js / Express.js/ MongoDB
+Node.js / Express.js / MongoDB
 
 Password / Data encryption / Hash / Salt / Cookie and Session / Google OAuth 
 
